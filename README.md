@@ -12,9 +12,4 @@
 - Conclusiones para el caso concreto(Elección de ERP y porque)
 - Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.
 
-<br/>
-
-<br/>
-
-## <ins> Análisis de los ERPs elegidos </ins>
 

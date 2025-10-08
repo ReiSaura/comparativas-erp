@@ -2,14 +2,39 @@
 
 <br/>
 
-<br/>
-
 ## <ins>Índice</ins>
 
-- Análisis  de los ERPs elegidos
-- Casos en los que elegirías esos ERPs
-- Tabla Comparativa ERPs
-- Conclusiones para el caso concreto(Elección de ERP y porque)
-- Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.
+1. Descripción de la práctica
+2. Estructura del repositorio
+3. Documento principal
+
+
+## <ins> Descripción de la práctica </ins>
+
+El objetivo de la práctica es investigar y comparar tres soluciones ERP diferentes para determinar cuál se adapta mejor a las necesidades de 'GreenGym Solutions', para entender qué es un ERP, su utilidad, qué procesos integran y qué ventajas o limitaciones presenta cada alternativa.
+
+
+## <ins> Estructura del repositorio </ins>
+
+A continuación se muestra la estructura de carpetas y archivos del proyecto:
+
+```
+comparativas_erp/
+├── Readme.md
+├── comparativas_erp.md
+└── asset/
+```
+
+## <ins> Documento principal </ins>
+
+El documento principal de la tarea es **_comparativas_erp_**.
+
+Contenidos:
+
+1. Análisis de los ERPs elegidos (Odoo, Microsoft Dynamics 365 Business Central, SAP Business One)
+2. Casos en los que elegirías esos ERPs
+3. Tabla comparativa por criterios
+4. Conclusiones para el caso concreto (elección y motivos)
+5. Fuentes y evidencias (links a documentación oficial y capturas)
 
 

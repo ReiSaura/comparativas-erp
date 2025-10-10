@@ -17,7 +17,7 @@ En este apartado se presentan las tres soluciones ERP seleccionadas:
 
 - Microsoft Dynamics 365 Business Central
 - Odoo
-- NextERP
+- Netsuite
 
 Se analizarán sus principales características, qué procesos cubren, sus ventajas y limitaciones, para determinar cuál se adapta mejor a las necesidades de GreenGym Solutions.
 
@@ -36,7 +36,7 @@ Microsoft Dynamics 365 Business Central es un software de gestión empresarial (
 
 - Soporte y seguridad empresarial.
 
-- Capacidad para ampliar con módulos y extensiones. Business Central incluye “configuraciones estándar para la mayoría de procesos empresariales” y se puede adaptar con customizaciones. 
+- Capacidad para ampliar con módulos y extensiones.
 
 - En planes recientes, se agrega funcionalidad de Copilot para inteligencia integrada en tareas de finanzas, atención y operaciones. 
 
@@ -56,58 +56,105 @@ Microsoft Dynamics 365 Business Central es un software de gestión empresarial (
 
 ### Limitaciones
 
-- Funcionalidades sectoriales (reservas, clases, check-in móvil) pueden requerir desarrollo adicional o integración con módulos externos.
+- Microsoft Dynamics 365 Business Central no incluye herramientas para reservas de clases colectivas, control de asistencias a eventos o gestión de entrenadores, por lo que habría que añadir módulos externos.
 
-- El coste por usuario puede ser elevado si muchos roles (recepción, entrenadores, tienda) requieren acceso completo.
+- Cada persona que use el sistema necesitaría una licencia, lo que puede aumentar el coste si muchos empleados tienen que acceder.
 
-- La base del ERP es sólida, pero algunas extensiones modulares no vienen “listas para fitness/gimnasio”.
-
-
-
-
-
+- Está pensado para empresas en general, así que hay que configurarlo un poco para ajustarlo a las necesidades concretas de un gimnasio.
 
 
 
 
 ### Odoo
 
-Odoo es una suite modular (open source + edición Enterprise) que incluye CRM, POS, Inventario, Facturación, Suscripciones/membresías y muchas otras apps; puede desplegarse en la nube (Odoo Online / Odoo.sh) o on-premise. Es muy usada por pymes por su flexibilidad y amplio ecosistema de apps.
-
-Odoo es una solución ERP de código abierto (open source) que ofrece una amplia gama de módulos empresariales integrados: CRM, contabilidad, inventario, punto de venta (POS), comercio electrónico, proyectos, recursos humanos, entre otros. Su objetivo es centralizar la gestión de la empresa de forma modular y flexible
+Odoo es una solución ERP de código abierto que agrupa en una sola plataforma todas las aplicaciones necesarias para gestionar una empresa. Desde la contabilidad hasta la logística, desde la atención al cliente hasta el comercio electrónico, pasando por CRM, RRHH, producción o BI. Es muy usada por pymes por su flexibilidad y amplio ecosistema de apps, su interfaz intuitiva y su capacidad de personalización hacen que sea fácil de usar y adaptar a las necesidades específicas de cada negocio.
 
 ### Procesos que cubre 
 
-- Gestión financiera, contabilidad, facturación y cobros.
+- Ventas, CRM y atención al cliente.
 
-- Control de inventario y compras.
+- Inventario y gestión de almacén.
 
-- Reporting y BI integrados.
+- Punto de venta (POS) conectado con stock.
 
-- Soporte y seguridad empresarial.
+- Contabilidad y facturación.
 
-- Capacidad para ampliar con módulos y extensiones. Business Central incluye “configuraciones estándar para la mayoría de procesos empresariales” y se puede adaptar con customizaciones. 
+- Compras, proyectos y marketing digital.
 
-- En planes recientes, se agrega funcionalidad de Copilot para inteligencia integrada en tareas de finanzas, atención y operaciones. 
+- Módulos de suscripciones o membresías
 
 ### Ventajas
 
-- Trazabilidad fuerte entre cobros, ventas y servicios gracias a su módulo financiero.
+- Reducción de costes: Al centralizar toda la gestión en una sola plataforma, se reducen los costos operativos y de licencias de software.
 
-- Integración nativa con Microsoft 365, Power Platform y herramientas ofimáticas.
+- Optimización de procesos: Facilita la automatización de tareas repetitivas.
 
-- Alto nivel de seguridad y cumplimiento que acompañan a soluciones empresariales.
+- Datos actualizados en tiempo real.
 
-- Escalabilidad para crecer a múltiples ubicaciones o aumentar usuarios.
+- Gran flexibilidad modular: se pueden activar o desactivar aplicaciones según necesidad, lo que permite que Odoo se adapte a las necesidades específicas de cada negocio.
+
+- Comunidad activa y miles de módulos externos disponibles.
+
+- Escalabilidad: Odoo crece junto con la empresa, permitiendo la adición de nuevos módulos según sea necesario.
+
+- Accesible desde cualquier dispositivo (web o app móvil).
+
+- Disponible en versión gratuita (Community) y de pago (Enterprise).
 
 ### Limitaciones
 
-- Funcionalidades sectoriales (reservas, clases, check-in móvil) pueden requerir desarrollo adicional o integración con módulos externos.
+- La versión Community no incluye todas las funciones avanzadas.
 
-- El coste por usuario puede ser elevado si muchos roles (recepción, entrenadores, tienda) requieren acceso completo.
+- Requiere configuración y mantenimiento técnico para entornos personalizados.
 
-- La base del ERP es sólida, pero algunas extensiones modulares no vienen “listas para fitness/gimnasio”.
+- Puede necesitar servidores externos si se instala en local.
 
+
+
+
+### Netsuite
+
+Oracle NetSuite es un ERP en la nube que permite gestionar todos los procesos de un negocio desde una sola plataforma. Integra finanzas, inventario, ventas, compras, recursos humanos y CRM, ofreciendo una visión global en tiempo real. Su modelo cloud elimina la necesidad de servidores locales y facilita el acceso desde cualquier lugar, ideal para pymes que buscan automatizar procesos y centralizar su gestión.
+
+### Procesos que cubre 
+
+- Gestión financiera, contabilidad y presupuestos.
+
+- Facturación, cobros y pagos.
+
+- Compras, ventas e inventario.
+
+- Gestión de clientes (CRM) y marketing.
+
+- Recursos humanos y nóminas.
+
+- Analítica avanzada y cuadros de mando.
+
+- Multiempresa y multimoneda.
+
+### Ventajas
+
+- Amplia automatización: reduce tareas manuales y errores humanos.
+
+- Todo en la nube: accesible desde cualquier lugar sin necesidad de infraestructura local.
+
+- Agregar rápida y fácilmente funcionalidades a medida de tu negocio.
+
+- Informes en tiempo real: ofrece dashboards personalizables con indicadores clave.
+
+- Soporte global y respaldo de Oracle: garantiza estabilidad, seguridad y actualizaciones continuas.
+
+### Limitaciones
+
+- Coste elevado: suele ser más caro que otras soluciones ERP, lo que puede ser una barrera para pymes pequeñas.
+
+- Curva de aprendizaje: requiere formación inicial para aprovechar todas sus funciones.
+
+- Su enfoque global y multisectorial puede dejar de lado las necesidades específicas de negocios locales.
+
+- Orientado a empresas medianas/grandes: puede ser demasiado complejo para negocios con pocos procesos.
+
+- Menor personalización directa: al ser un sistema cerrado, depende de consultores certificados para adaptaciones.
 
 
 ## <ins>Fuentes y evidencias</ins>
@@ -122,3 +169,28 @@ https://learn.microsoft.com/en-us/dynamics365/business-central/welcome
 https://aglaia.es/blog/dynamics-365/microsoft-dynamics-365
 
 https://www.youtube.com/watch?v=fpu_Z8ZZLvg
+
+https://www.softwareadvice.com/accounting/dynamics-365-business-central-profile
+
+<br/>
+
+Odoo
+
+https://www.odoo.com/documentation/18.0
+
+https://www.odoo.com/es_ES/page/about-us
+
+https://nanobytes.es/odoo-erp
+
+https://kaizenstep.com/categoria-erp/ventajas-y-desventajas-de-odoo
+
+<br/>
+
+Netsuite
+
+https://www.netsuite.com.mx/portal/mx/resource/articles/erp/what-is-netsuite.shtml
+
+https://entersol.com.mx/netsuite-caracteristicas
+
+
+

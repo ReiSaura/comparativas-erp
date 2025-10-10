@@ -207,13 +207,27 @@ Microsoft Dynamics 365 Business Central
 
 https://www.prodwaregroup.com/es-es/soluciones/microsoft-dynamics-365/microsoft-dynamics-365-business-central/?utm_source=adwords&utm_medium=paid&utm_campaign=unificada&utm_term=businesscentral&utm_content=landing&gad_source=1
 
+![Profwaregoup](./asset/MicrosoftD/Prodwaregroup.png)
+
+
 https://learn.microsoft.com/en-us/dynamics365/business-central/welcome
+
+![Microsoft Learn](./asset/MicrosoftD/Microsoft%20learn.png)
+
 
 https://aglaia.es/blog/dynamics-365/microsoft-dynamics-365
 
-https://www.youtube.com/watch?v=fpu_Z8ZZLvg
+![Aglaia](./asset/MicrosoftD/Aglaia.png)
 
 https://www.softwareadvice.com/accounting/dynamics-365-business-central-profile
+
+![Software advice](./asset/MicrosoftD/Softwareadvice.png)
+
+https://www.youtube.com/watch?v=fpu_Z8ZZLvg
+
+![Video extra explicativo](./asset/MicrosoftD/CEI%20Europe.png)
+
+
 
 <br/>
 
@@ -221,11 +235,22 @@ Odoo
 
 https://www.odoo.com/documentation/18.0
 
+![Odoo Documentación](./asset/Odoo/OdooDocumentation.png)
+
+
 https://www.odoo.com/es_ES/page/about-us
+
+![Odoo about us](./asset/Odoo/Odoo-AboutUs.png)
+
 
 https://nanobytes.es/odoo-erp
 
+![Nanobytes](./asset/Odoo/Nanobytes.png)
+
+
 https://kaizenstep.com/categoria-erp/ventajas-y-desventajas-de-odoo
+
+![Kaizen](./asset/Odoo/Kaizen.png)
 
 <br/>
 
@@ -233,9 +258,17 @@ Netsuite
 
 https://www.netsuite.com.mx/portal/mx/resource/articles/erp/what-is-netsuite.shtml
 
+![Netsuite Documentación](./asset/Netsuite/OracleNetsuite.png)
+
+
 https://entersol.com.mx/netsuite-caracteristicas
 
+![Entersol](./asset/Netsuite/Entersol.png)
+
+
 https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile
+
+![Software advice](./asset/Netsuite/SoftwareAdvice-ON.png)
 
 </br>
 
@@ -243,11 +276,24 @@ Otros
 
 https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
+![Ayuda tablas](./asset/Tablas-Github.png)
+
+
 https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
+![Ayuda formato](./asset/Escritura-Github.png)
+
 
 https://www.canva.com
 
+![Diseño leaderboards](./asset/Canva-Diseño.png)
+
+
 https://gemini.google.com/u/0/app/82aaa5a7fe321977
+
+
+![Ayuda cambio leaderboards](./asset/Geminis-Diseño.png)
+
 
 </br>
 

@@ -1,3 +1,5 @@
+![Portada](./asset/Banners/Portada.png)
+
 # <ins>Comparativas ERP</ins>
 
 <br/>
@@ -23,8 +25,9 @@ Se analizarán sus principales características, qué procesos cubren, sus venta
 
 ### Microsoft Dynamics 365 Business Central
 
-Microsoft Dynamics 365 Business Central es un software de gestión empresarial (ERP) diseñado para organizaciones pequeñas y medianas que permite agilizar y optimizar los procesos administrativos, financieros, de ventas, servicios y operaciones desde una única plataforma. Es una solución fácil de usar, modulable y personalizable que ayuda a las empresas a racionalizar sus procesos, mejorar la relación con sus clientes y tomar decisiones mejor informadas, pudiendo añadir funcionalidades específicas para su sector o región mediante aplicaciones de ISV líderes. Gracias a la inteligencia artificial, el aprendizaje automático, el IoT y la realidad mixta, Business Central impulsa la innovación y el crecimiento empresarial, todo ello integrado en la nube de Microsoft.
+![Banner de Microsoft](./asset/Banners/Microsoft-Dynamics-365.webp)
 
+Microsoft Dynamics 365 Business Central es un software de gestión empresarial (ERP) diseñado para organizaciones pequeñas y medianas que permite agilizar y optimizar los procesos administrativos, financieros, de ventas, servicios y operaciones desde una única plataforma. Es una solución fácil de usar, modulable y personalizable que ayuda a las empresas a racionalizar sus procesos, mejorar la relación con sus clientes y tomar decisiones mejor informadas, pudiendo añadir funcionalidades específicas para su sector o región mediante aplicaciones de ISV líderes. Gracias a la inteligencia artificial, el aprendizaje automático, el IoT y la realidad mixta, Business Central impulsa la innovación y el crecimiento empresarial, todo ello integrado en la nube de Microsoft.
 
 ### Procesos que cubre 
 
@@ -66,6 +69,8 @@ Microsoft Dynamics 365 Business Central es un software de gestión empresarial (
 
 
 ### Odoo
+
+![Banner de Odoo](./asset/Banners/Portada-odoo.webp)
 
 Odoo es una solución ERP de código abierto que agrupa en una sola plataforma todas las aplicaciones necesarias para gestionar una empresa. Desde la contabilidad hasta la logística, desde la atención al cliente hasta el comercio electrónico, pasando por CRM, RRHH, producción o BI. Es muy usada por pymes por su flexibilidad y amplio ecosistema de apps, su interfaz intuitiva y su capacidad de personalización hacen que sea fácil de usar y adaptar a las necesidades específicas de cada negocio.
 
@@ -114,6 +119,8 @@ Odoo es una solución ERP de código abierto que agrupa en una sola plataforma t
 
 ### Netsuite
 
+![Banner de Netsuite](./asset/Banners/Netsuite%20resize%20logo%20for%20Solver%20Tenant%20PNG.webp)
+
 Oracle NetSuite es un ERP en la nube que permite gestionar todos los procesos de un negocio desde una sola plataforma. Integra finanzas, inventario, ventas, compras, recursos humanos y CRM, ofreciendo una visión global en tiempo real. Su modelo cloud elimina la necesidad de servidores locales y facilita el acceso desde cualquier lugar, ideal para pymes que buscan automatizar procesos y centralizar su gestión.
 
 ### Procesos que cubre 
@@ -157,6 +164,42 @@ Oracle NetSuite es un ERP en la nube que permite gestionar todos los procesos de
 - Menor personalización directa: al ser un sistema cerrado, depende de consultores certificados para adaptaciones.
 
 
+## <ins>Casos en los que elegirías esos ERPs</ins>
+
+| ERP | Caso |
+| :---: | :---: |
+| **Microsoft Dynamics 365** | Para empresas medianas que ya usan el ecosistema de Microsoft 365 (Teams, Outlook, Excel, Power BI) y necesitan una gestión financiera sólida, control de inventario y análisis de datos integrados |
+| **Odoo** | Para pymes que necesitan una solución flexible, económica y modular para centralizar clientes, reservas, ventas y stock en una sola plataforma. Su módulo de membresías, POS y reservas lo hacen ideal para gimnasios o centros deportivos y su versión en la nube o local se adapta a cualquier presupuesto |
+| **Netsuite** | Para empresas medianas o grandes con expansión internacional o varias unidades de negocio. Es la mejor opción para crecimientos rápidos, con apertura de nuevas sedes o si se tiene la necesidad de un control financiero global, multiempresa y multimoneda, aunque su coste y complejidad lo hacen menos idóneo |
+
+
+## <ins>Tabla comparativa por criterios</ins>
+
+## Tabla comparativa por criterios
+
+| Criterios | Odoo | Microsoft Dynamics 365 Business Central | Oracle NetSuite |
+|:---:|:---:|:---:|:---:|
+| **Modelo de despliegue** | Nube (Odoo Online, Odoo.sh) y local (on-premise) | Nube / híbrido / local | 100 % nube |
+| **Facilidad de uso** | Interfaz amigable, curva de aprendizaje baja-media | Interfaz profesional, curva de aprendizaje media | Interfaz robusta, curva de aprendizaje mayor|
+| **Personalización e integración** | Muy alta: módulos, API abierta, comunidad extensa | Alta: API, conectores Microsoft, extensiones | Buena: permite integraciones, pero depende de SuiteCloud y consultores |
+| **Seguridad y cumplimiento** | Buenas opciones de hosting, cumplimiento RGPD, backups según proveedor | Muy alta: estándares Microsoft, residencia de datos, permisos y roles fuertes | Alto nivel de seguridad, cumplimiento normativo, cifrado y estándares empresariales |
+| **Cobertura funcional por procesos** | Ventas, CRM, POS, inventario, compras, facturación, suscripciones, reservas | Finanzas, compras, ventas, inventario, reporting, control de presupuestos | Finanzas, CRM, inventario, RR.HH, compras, BI, operaciones globales |
+| **Ecosistema y soporte** | Comunidad global activa, muchos módulos externos, partners locales | Red de partners Microsoft, soporte oficial, gran ecosistema empresarial | Oracle como proveedor grande, soporte global, partners especializados |
+| **Coste total estimado (TCO)** | Bajo-medio: opción gratuita / de bajo coste + costo de hosting o partner si se personaliza | Medio-alto: licencias por usuario, costes de implementación, support | Alto: suscripción, implementación, formación y mantenimiento continuo |
+| **Escalabilidad** | Alta: multiusuario, se puede crecer con módulos, multiempresa posible | Muy alta: preparado para empresa en crecimiento con muchas sedes, usuarios y negocios paralelos | Muy alta: pensado para expansión, operaciones internacionales, multiempresa/multimoneda |
+
+
+## <ins>Conclusiones para el caso concreto (elección y motivos)</ins>
+
+Después de comparar las tres soluciones ERP seleccionadas: Odoo, Microsoft Dynamics 365 Business Central y Oracle NetSuite. He elegido ***Odoo*** como la opción más adecuada para GreenGym Solutions, ya que ofrece una solución completa, flexible y económica adaptada a las necesidades de una pyme del sector servicios.
+
+![Seleccionado](./asset/Odoo/Gemini_Generated_Image_z9ud4az9ud4az9ud-removebg-preview.png)
+
+Odoo permite gestionar desde un único sistema todos los procesos del gimnasio: clientes, reservas, membresías, ventas..., todo con una interfaz sencilla y accesible desde la nube. Además, su enfoque modular facilita que se empiece con lo básico e ir incorporando nuevas funciones a medida que el negocio vaya creciendo.
+
+A diferencia de otras opciones más costosas o complejas, Odoo combina el bajo coste de implantación con una alta capacidad de personalización y una comunidad activa, lo que lo convierte en la mejor elección para digitalizar y ordenar la gestión del gimnasio sin grandes inversiones.
+
+
 ## <ins>Fuentes y evidencias</ins>
 
 
@@ -191,6 +234,24 @@ Netsuite
 https://www.netsuite.com.mx/portal/mx/resource/articles/erp/what-is-netsuite.shtml
 
 https://entersol.com.mx/netsuite-caracteristicas
+
+https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile
+
+</br>
+
+Otros
+
+https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
+https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
+https://www.canva.com
+
+https://gemini.google.com/u/0/app/82aaa5a7fe321977
+
+</br>
+
+![Portada](./asset/Banners/Portada.png)
 
 
 

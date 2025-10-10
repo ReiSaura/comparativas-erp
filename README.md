@@ -1,3 +1,5 @@
+![Portada](./asset/Banners/Portada.png)
+
 # <ins> Tarea RA1. Comparativa de ERP actuales: análisis crítico de tres soluciones y su utilidad en una pyme de servicios como GreenGym.</ins>
 
 <br/>
@@ -36,5 +38,9 @@ Contenidos:
 3. Tabla comparativa por criterios
 4. Conclusiones para el caso concreto (elección y motivos)
 5. Fuentes y evidencias (links a documentación oficial y capturas)
+
+</br>
+
+![Portada](./asset/Banners/Portada.png)
 
 

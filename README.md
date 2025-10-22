@@ -33,11 +33,11 @@ El documento principal de la tarea es **_comparativas_erp_**.
 
 Contenidos:
 
-1. Análisis de los ERPs elegidos (Odoo, Microsoft Dynamics 365 Business Central, Netsuite)
+1. Análisis de los ERPs elegidos
 2. Casos en los que elegirías esos ERPs
 3. Tabla comparativa por criterios
-4. Conclusiones para el caso concreto (elección y motivos)
-5. Fuentes y evidencias (links a documentación oficial y capturas)
+4. ConclusioneS
+5. Fuentes y evidencias
 
 </br>
 

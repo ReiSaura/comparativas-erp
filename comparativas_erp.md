@@ -9,8 +9,8 @@
 1. Análisis de los ERPs elegidos
 2. Casos en los que elegirías esos ERPs
 3. Tabla comparativa por criterios
-4. Conclusiones para el caso concreto (elección y motivos)
-5. Fuentes y evidencias (links a documentación oficial y capturas)
+4. Conclusiones 
+5. Fuentes y evidencias
 
 
 ## <ins>Análisis de los ERPs elegidos</ins>
